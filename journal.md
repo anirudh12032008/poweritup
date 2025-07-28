@@ -1,5 +1,6 @@
 # POWER IT UP
-## author: "Anirudh Sahu"This is my custom battery charging station that can charge up to 8 batteries at once! It uses TP4056 and switches for each 5V power supply and battery holders I'm building it on a veroboard because its wayy eassy and I can modify stuff later to add more slots"
+## author: "Anirudh Sahu"
+## Description: This is my custom battery charging station that can charge up to 8 batteries at once! It uses TP4056 and switches for each 5V power supply and battery holders I'm building it on a veroboard because its wayy eassy and I can modify stuff later to add more slots
 ### created_at: "2024-07-28"
 ## Time spent - 7 HR
 
