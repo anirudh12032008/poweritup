@@ -16,8 +16,10 @@ Because I always need charged batteries for my other projects which have like no
 So I made my own that works better 
 
 ## Images
-<img width="1366" height="418" alt="power up v3" src="https://github.com/user-attachments/assets/cab11c11-681f-4738-9a08-56a176760e09" />
-<img width="1366" height="418" alt="power up v3 2" src="https://github.com/user-attachments/assets/fb0921a9-f4ba-432a-85a2-e99b27cbab8a" />
+<img width="1366" height="418" alt="power up v4 1" src="https://github.com/user-attachments/assets/671c8a7a-9a35-435b-abaf-d06866e8af19" />
+<img width="1366" height="418" alt="power up v4 3" src="https://github.com/user-attachments/assets/9e574a0f-e47a-464f-9d61-27a49462dcc7" />
+<img width="1366" height="418" alt="power up v4 2" src="https://github.com/user-attachments/assets/d943e35d-360d-4caf-896d-ebf580ed4181" />
+
 <img width="1366" height="418" alt="power up v3 3" src="https://github.com/user-attachments/assets/26daca87-edeb-4114-b471-14fbbc343c60" />
 <img width="700" height="490" alt="4" src="https://github.com/user-attachments/assets/6d66efd7-53f1-4e84-8678-f3b196022e0d" />
 <img width="764" height="491" alt="3" src="https://github.com/user-attachments/assets/122657d1-fa3c-4182-8f69-2b73ccdacc16" />
