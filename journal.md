@@ -33,3 +33,8 @@ so I started with the case and it was a bit laggy to rotate the tp4056 idk why I
 so now it was time to optimize the BOM many things were going out of my BOM so I decided to use local store to purchase those components and the smd holder was twice the price of nowmal holder so I got that only I needed to make sure that the dimensions were correct for everything
 
 Time spent - 3 Hr
+
+## Aug - 6 - Final Build
+starting with the final build I assembled everything that I could find initially the wiring was a total mess but somehow managed it I didn't knew how the power supply work so I google it to know the right connections but as it was AC I couldn't risk anything lol so I done sometesting and got my multimeter to work and what happened!!!!!!!!!! the + and - were connected with 40 ohm resistance i knew i fucked up somewhere I had already soldered everything so my only way out was to remove stuff but still after doing that it was still showing connected then I tested only on thepower supply and wait what it was still conected then I went to chatgpt and it told me that its normal so thats how I got to this, I was so fucked up that I did not clicked any photos ( I can't do fraud with physical builds lol )
+![photo_6102760546496530489_w](https://github.com/user-attachments/assets/e2b3fd6b-f019-4d44-8881-daaa9adc72db)
+time - 5hr
