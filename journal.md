@@ -2,8 +2,8 @@
 ## author: "Anirudh Sahu"
 ## Description: This is my custom battery charging station that can charge up to 8 batteries at once! It uses TP4056 and switches for each 5V power supply and battery holders I'm building it on a veroboard because its wayy eassy and I can modify stuff later to add more slots
 ### created_at: "2024-07-28"
-## Time spent - 7 HR
-
+## design Time spent - 7 HR
+## build time spent - 5hr
 ## July 28 - Created schematic, PCB and BOM
 so I have created projects with 2s 3s but now I couldnt charge them I was having too many of the battery lying everywhere waiting for there turn to charge up. so yeah I started with creating this project
 
@@ -37,4 +37,9 @@ Time spent - 3 Hr
 ## Aug - 6 - Final Build
 starting with the final build I assembled everything that I could find initially the wiring was a total mess but somehow managed it I didn't knew how the power supply work so I google it to know the right connections but as it was AC I couldn't risk anything lol so I done sometesting and got my multimeter to work and what happened!!!!!!!!!! the + and - were connected with 40 ohm resistance i knew i fucked up somewhere I had already soldered everything so my only way out was to remove stuff but still after doing that it was still showing connected then I tested only on thepower supply and wait what it was still conected then I went to chatgpt and it told me that its normal so thats how I got to this, I was so fucked up that I did not clicked any photos ( I can't do fraud with physical builds lol )
 ![photo_6102760546496530489_w](https://github.com/user-attachments/assets/e2b3fd6b-f019-4d44-8881-daaa9adc72db)
+![photo_6120626171633846747_w](https://github.com/user-attachments/assets/275c8e89-5efc-40d7-9aa5-a4c67dae2a59)
+![photo_6120626171633846748_w](https://github.com/user-attachments/assets/33a3b22b-0269-4306-ae30-d17e482c400b)
+![photo_6120626171633846749_w](https://github.com/user-attachments/assets/39d3db41-8dea-4bd5-92ba-768bb8874e2c)
+![photo_6120626171633846750_w](https://github.com/user-attachments/assets/d6f7a0c9-0c20-4c24-b35c-e93f8fc3d707)
+
 time - 5hr
