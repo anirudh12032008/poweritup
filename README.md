@@ -30,6 +30,7 @@ https://www.youtube.com/shorts/WTHu2x8At6c
 
 ## final build
 ![photo_6102760546496530489_w](https://github.com/user-attachments/assets/3f405489-df3d-4ca7-a562-3bd637a8e919)
+![photo_6120626171633846750_w](https://github.com/user-attachments/assets/748a702e-1966-444a-bd25-44e611b6aa0b)
 
 
 
