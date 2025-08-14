@@ -25,8 +25,15 @@ So I made my own that works better
 <img width="764" height="491" alt="3" src="https://github.com/user-attachments/assets/122657d1-fa3c-4182-8f69-2b73ccdacc16" />
 <img width="937" height="518" alt="2" src="https://github.com/user-attachments/assets/da7a641d-4788-4795-985f-0253ecf34486" />
 
+# Youtube Demo
+https://www.youtube.com/shorts/WTHu2x8At6c
+
 ## final build
 ![photo_6102760546496530489_w](https://github.com/user-attachments/assets/3f405489-df3d-4ca7-a562-3bd637a8e919)
+
+
+
+https://github.com/user-attachments/assets/f95e3092-a776-48b6-944d-ce72576e751a
 
 
 
